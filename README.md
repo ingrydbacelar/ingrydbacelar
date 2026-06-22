@@ -24,14 +24,14 @@ Meus principais interesses incluem:
 ## ConectaLeads
 
 <p align="center">
-  <img width="100%" alt="ConectaLeads Banner" src="https://github.com/user-attachments/assets/25973eb6-7ad2-47cd-ab0d-18599cb094e8" />
+  <img width="2125" height="575" alt="Design sem nome" src="https://github.com/user-attachments/assets/2ff60bcc-0192-434a-8f62-2cf0655d7104" />
 </p>
 
 A ConectaLeads é um projeto focado em prospecção de leads B2B, utilizando tecnologia para otimizar processos comerciais, identificar oportunidades de negócio e conectar empresas de forma mais eficiente.
 
 <p align="center">
   <a href="https://conectaleadsb2b.com.br/">
-    <img src="https://img.shields.io/badge/%20Conheça%20o%20Site-0F2E1D?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%20Conheça%20o%20Site-2d3c0e?style=for-the-badge" />
   </a>
 </p>
 
@@ -59,15 +59,20 @@ Construir soluções tecnológicas reais que unam inovação, automação e inte
 
 ---
 
-## Contato
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ingryd-maria-b033a4318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <br><br>
+### Contato
 
-  <a href="mailto:ingrydmarreiros@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL%20-D14836?style=for-the-badge" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/ingryd-maria-b033a4318/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ingrydmarreiros@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/5598982035926" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
