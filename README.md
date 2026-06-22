@@ -1,30 +1,37 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+espa%C3%A7o+no+GitHub!" />
+</p>
 
-# Bem-vindo ao meu espaço no GitHub!
-
-Sou a Ingryd, estudante de Ciência da Computação e fundadora da ConectaLeads (https://conectaleadsb2b.com.br/).  
-Tenho interesse em desenvolver soluções tecnológicas voltadas para Web, Dados & IA, com foco também em Cibersegurança e Computação Forense.
+Sou a Ingryd, estudante de Ciência da Computação, apaixonada por tecnologia, dados e inovação. Atualmente desenvolvo projetos voltados para automação, inteligência artificial e soluções digitais que conectam tecnologia e negócios.
 
 ---
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação com foco em desenvolvimento de software e construção de soluções digitais.  
-Atualmente atuo como fundadora da ConectaLeads, uma iniciativa voltada para automação e geração de leads B2B.
+Atualmente atuo como **LDR na Dealwise** e sou fundadora da **ConectaLeads**, uma iniciativa focada em prospecção inteligente e geração de leads B2B.
 
-Tenho interesse em criar sistemas que envolvem:
+Meus principais interesses incluem:
 
-- Desenvolvimento Web moderno
-- Inteligência Artificial aplicada
-- Bancos de dados e engenharia de dados
-- Cibersegurança e computação forense
+- Desenvolvimento Web
+- Dados & IA
+- Cibersegurança
+- Computação Forense
 
 ---
 
 ## ConectaLeads
 
-A ConectaLeads é um projeto voltado para prospecção e automação de leads B2B, utilizando tecnologia para otimizar processos comerciais e conectar empresas de forma mais inteligente.
+<p align="center">
+  <img width="100%" alt="ConectaLeads Banner" src="https://github.com/user-attachments/assets/25973eb6-7ad2-47cd-ab0d-18599cb094e8" />
+</p>
 
-Site: https://conectaleadsb2b.com.br/
+A ConectaLeads é um projeto focado em prospecção de leads B2B, utilizando tecnologia para otimizar processos comerciais, identificar oportunidades de negócio e conectar empresas de forma mais eficiente.
+
+<p align="center">
+  <a href="https://conectaleadsb2b.com.br/">
+    <img src="https://img.shields.io/badge/%20Conheça%20o%20Site-0F2E1D?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -40,7 +47,7 @@ Site: https://conectaleadsb2b.com.br/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
-Em evolução: IA e Automações
+_Em constante evolução: IA e Automações_
 
 ---
 
