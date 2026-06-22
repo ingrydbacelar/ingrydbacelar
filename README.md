@@ -1,3 +1,5 @@
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/d1ec2271-828c-4c4f-af12-9125764261cf" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+espa%C3%A7o+no+GitHub!" />
 </p>
