@@ -30,12 +30,17 @@ Site: https://conectaleadsb2b.com.br/
 
 ## Tecnologias que uso
 
-- Python
-- JavaScript
-- HTML / CSS
-- SQL
-- Git / GitHub
-- (em evolução: IA e automações)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+Em evolução: IA e Automações
 
 ---
 
@@ -47,6 +52,13 @@ Construir soluções tecnológicas reais que unam inovação, automação e inte
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/ingryd-maria-b033a4318/
-- Email: Ingrydmarreiros@gmail.com
-- GitHub: https://github.com/ingrydbacelar
+<p align="left">
+  <a href="https://www.linkedin.com/in/ingryd-maria-b033a4318/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br><br>
+
+  <a href="mailto:ingrydmarreiros@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL%20-D14836?style=for-the-badge" />
+  </a>
+</p>
