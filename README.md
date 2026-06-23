@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/d1ec2271-828c-4c4f-af12-9125764261cf" />
+<img width="1920" height="480" alt="Welcome to Class Google Classroom Header Black Pink Checkered Style" src="https://github.com/user-attachments/assets/52d7dd67-a252-4b59-af9a-0c2970e9c69c" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+espa%C3%A7o+no+GitHub!" />
@@ -24,7 +24,7 @@ Meus principais interesses incluem:
 ## ConectaLeads
 
 <p align="center">
-  <img width="2125" height="575" alt="Design sem nome" src="https://github.com/user-attachments/assets/2ff60bcc-0192-434a-8f62-2cf0655d7104" />
+  <img width="1920" height="480" alt="Welcome to Class Google Classroom Header Black Pink Checkered Style" src="https://github.com/user-attachments/assets/2fb6044b-1826-49a9-86b7-b26488feff82" />
 </p>
 
 A ConectaLeads é um projeto focado em prospecção de leads B2B, utilizando tecnologia para otimizar processos comerciais, identificar oportunidades de negócio e conectar empresas de forma mais eficiente.
