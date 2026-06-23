@@ -27,7 +27,7 @@ Meus principais interesses incluem:
   <img width="1920" height="480" alt="Welcome to Class Google Classroom Header Black Pink Checkered Style" src="https://github.com/user-attachments/assets/2fb6044b-1826-49a9-86b7-b26488feff82" />
 </p>
 
-A ConectaLeads é um projeto focado em prospecção de leads B2B, utilizando tecnologia para otimizar processos comerciais, identificar oportunidades de negócio e conectar empresas de forma mais eficiente.
+A **ConectaLeads** é uma plataforma de prospecção B2B que utiliza os recursos da **Apollo.io** para automatizar a busca de leads qualificados, enriquecer dados comerciais e acelerar a geração de oportunidades de negócio, contribuindo para processos de vendas mais estratégicos e eficientes.
 
 <p align="center">
   <a href="https://conectaleadsb2b.com.br/">
@@ -40,13 +40,38 @@ A ConectaLeads é um projeto focado em prospecção de leads B2B, utilizando tec
 ## Tecnologias que uso
 
 <p align="left">
+<p align="left">
+
+  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+
+  <!-- Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+
+  <!-- Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+
+  <!-- Automação -->
+  <img src="https://cdn.simpleicons.org/googlesheets" width="40" height="40" alt="Google Sheets"/>
+
+  <!-- Front-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+
+  <!-- Deploy -->
+  <img src="https://cdn.simpleicons.org/netlify" width="40" height="40" alt="Netlify"/>
+  <img src="https://cdn.simpleicons.org/vercel" width="40" height="40" alt="Vercel"/>
+
+  <!-- Backend / Cloud -->
+  <img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase"/>
+  <img src="https://cdn.simpleicons.org/supabase" width="40" height="40" alt="Supabase"/>
+  <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"/>
+</p>
 </p>
 
 _Em constante evolução: IA e Automações_
