@@ -10,8 +10,7 @@ Sou a Ingryd, estudante de Ciência da Computação, apaixonada por tecnologia, 
 
 ## Sobre mim
 
-Atualmente atuo como **LDR na Dealwise** e sou fundadora da **ConectaLeads**, uma iniciativa focada em prospecção inteligente e geração de leads B2B. Também desenvolvo a **Vitrine**, um projeto voltado à criação de landing pages e sites modernos para empresas e profissionais, com foco em design estratégico, performance e conversão. Busco unir tecnologia, marketing e vendas para criar soluções que gerem resultados reais para os negócios.
-
+Atualmente atuo como **LDR na Dealwise** e sou fundadora da **ConectaLeads**, uma iniciativa focada em prospecção inteligente e geração de leads B2B. Também desenvolvo a **Vitrine**, um projeto voltado à criação de landing pages para empresas e profissionais, com foco em design estratégico, performance e conversão. Busco unir tecnologia, marketing e vendas para criar soluções que gerem resultados reais para os negócios.
 
 Meus principais interesses incluem:
 
