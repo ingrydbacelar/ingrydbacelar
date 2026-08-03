@@ -46,7 +46,7 @@ A **ConectaLeads** é uma plataforma de prospecção B2B que utiliza os recursos
 A **Vitrine** nasceu para ajudar empresas e profissionais a transformarem visitantes em clientes. Desenvolvo landing pages e sites estratégicos que apresentam serviços de forma clara, respondem às principais dúvidas antes mesmo do primeiro contato e fazem com que o cliente chegue mais informado e preparado para contratar.
 
 <p align="center">
-  <a href="">
+  <a href="https://vitrinepages.netlify.app/">
     <img src="https://img.shields.io/badge/%20Conheça%20o%20Site-F4ECE5?style=for-the-badge&logoColor=2B2B2B&labelColor=F4ECE5&color=F4ECE5" />
   </a>
 </p>
