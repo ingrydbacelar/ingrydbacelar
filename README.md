@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="#projetos">
+  <a href="#projetos-de-destaque">
     <img src="https://img.shields.io/badge/↓%20VER%20PROJETOS-B7D7A8?style=for-the-badge&labelColor=2d3c0e&color=B7D7A8" />
   </a>
 </p>
