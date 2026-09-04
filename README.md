@@ -1,4 +1,5 @@
-<img width="1920" height="480" alt="Welcome to Class Google Classroom Header Black Pink Checkered Style" src="https://github.com/user-attachments/assets/52d7dd67-a252-4b59-af9a-0c2970e9c69c" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/919c4be0-16ec-4438-8f5c-a4749444d581" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+espa%C3%A7o+no+GitHub!" />
