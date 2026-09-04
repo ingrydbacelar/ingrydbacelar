@@ -33,9 +33,11 @@ Tenho interesse especial em projetos que conectem **dados, inteligência, automa
   <img width="1920" height="480" alt="ConectaLeads" src="https://github.com/user-attachments/assets/2fb6044b-1826-49a9-86b7-b26488feff82" />
 </p>
 
-A **ConectaLeads** é uma plataforma de prospecção B2B que utiliza recursos da **Apollo.io** para automatizar a busca de leads qualificados, enriquecer dados comerciais e apoiar processos de geração de oportunidades.
+A **ConectaLeads** é um projeto desenvolvido por mim e voltado para **prospecção B2B**.
 
-O projeto representa meu interesse em aplicar **automação, dados e tecnologia** na construção de soluções com aplicação prática.
+O projeto utiliza recursos da **Apollo.io** para auxiliar na busca e qualificação de leads, organização de informações comerciais e otimização do processo de prospecção.
+
+Esse trabalho faz parte da minha experiência prática no desenvolvimento de soluções que utilizam **dados, automação e tecnologia aplicada a negócios**.
 
 <p align="center">
   <a href="https://conectaleadsb2b.com.br/">
@@ -52,8 +54,6 @@ O projeto representa meu interesse em aplicar **automação, dados e tecnologia*
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 </p>
 
 ### Dados & Banco de Dados
