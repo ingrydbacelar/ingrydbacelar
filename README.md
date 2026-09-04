@@ -153,7 +153,7 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
-  <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Gemini"/>
+  <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="ChatGPT"/>
   <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Gemini"/>
   <img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude"/>
 </p>
