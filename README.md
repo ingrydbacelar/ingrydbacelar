@@ -38,21 +38,11 @@ Atuo como **LDR na Dealwise** e sou fundadora da **ConectaLeads**, onde aplico *
 
 Iniciativa criada por mim para **prospecção B2B**, unindo **dados, tecnologia e automação** para tornar a geração de oportunidades mais estratégica e eficiente. O projeto utiliza recursos da **Apollo.io** para **encontrar e qualificar leads**, organizar informações comerciais e otimizar diferentes etapas do processo de prospecção.
 
-A ConectaLeads também representa minha experiência prática na criação de **soluções tecnológicas aplicadas a negócios**, transformando dados e processos em ferramentas que geram valor.
-
 <p align="center">
   <a href="https://conectaleadsb2b.com.br/">
     <img src="https://img.shields.io/badge/%20Conheça%20o%20Site-2d3c0e?style=for-the-badge" />
   </a>
 </p>
-
----
-
-# Projetos
-
-Aqui estão alguns dos projetos que desenvolvi, desde ferramentas criadas para resolver problemas do dia a dia profissional até projetos pessoais voltados para exploração e aprendizado.
-
-Meu objetivo não é apenas escrever código, mas **identificar um problema, entender sua lógica e transformar a necessidade em uma solução funcional.**
 
 ---
 
@@ -69,7 +59,7 @@ Meu objetivo não é apenas escrever código, mas **identificar um problema, ent
       <br><br>
     </td>
     <td width="33%" align="center">
-      <strong>Company Profile & Pain Analyzer</strong>
+      <strong>Company Profile Analyzer</strong>
       <br><br>
       Analisa o perfil e as principais dores de uma empresa, transformando essas informações em um roteiro estratégico para abordagem comercial.
       <br><br>
@@ -89,84 +79,108 @@ Meu objetivo não é apenas escrever código, mas **identificar um problema, ent
 
 ---
 
-# Soluções profissionais
+## Soluções profissionais
 
-### Website Phone Extractor
-
-Ferramenta criada para **extrair números de telefone disponíveis nos sites de empresas**, automatizando uma tarefa de coleta que normalmente seria realizada manualmente.
-
-**Próxima evolução:** integração de **IA para identificar e recuperar números ausentes ou não encontrados diretamente na estrutura da página.**
-
-`Python` `Web Scraping` `Automação` `IA`
-
----
-
-### CNPJ Finder
-
-Programa desenvolvido para **localizar o CNPJ de empresas** a partir de informações disponíveis sobre a organização.
-
-A solução automatiza uma etapa de pesquisa e enriquecimento de dados empresariais.
-
-`Python` `Automação` `Data Processing`
-
----
-
-### Sales Data Analyzer
-
-Automação desenvolvida para **coletar os dados das planilhas da semana e gerar análises de aproveitamento**, reduzindo o trabalho manual de consolidação das informações.
-
-O projeto transforma dados operacionais em informações mais úteis para acompanhamento e análise.
-
-`Python` `Google Sheets` `Automação` `Dados`
-
----
-
-# Projetos pessoais
-
-### Client Prospector
-
-Ferramenta criada para **pesquisar potenciais clientes no Google** e organizar os resultados em uma planilha, incluindo informações úteis para prospecção e **links diretos para WhatsApp** quando disponíveis.
-
-Um projeto desenvolvido para explorar automação, coleta de dados e geração de oportunidades comerciais.
-
-`Python` `Web Scraping` `Google` `Automação`
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Website Phone Extractor</strong>
+      <br><br>
+      Ferramenta criada para <strong>extrair números de telefone disponíveis nos sites de empresas</strong>, automatizando uma tarefa de coleta que normalmente seria realizada manualmente.
+      <br><br>
+      <code>Python</code> <code>Web Scraping</code> <code>Automação</code> <code>IA</code>
+      <br><br>
+    </td>
+    <td width="33%" align="center">
+      <strong>CNPJ Finder</strong>
+      <br><br>
+      Programa desenvolvido para <strong>localizar o CNPJ de empresas</strong> a partir de informações disponíveis sobre a organização.
+      <br><br>
+      <code>Python</code> <code>Automação</code> <code>Data Processing</code>
+      <br><br>
+    </td>
+    <td width="33%" align="center">
+      <strong>Sales Data Analyzer</strong>
+      <br><br>
+      Automação desenvolvida para <strong>coletar os dados das planilhas da semana e gerar análises de aproveitamento</strong>, reduzindo o trabalho manual de consolidação das informações.
+      <br><br>
+      <code>Google Sheets</code> <code>Automação</code> <code>Dados</code>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 0Website Translator
+## Projetos pessoais
 
-Projeto pessoal desenvolvido para **traduzir conteúdos de websites**, explorando conceitos de desenvolvimento web e processamento de conteúdo.
-
-`JavaScript` `Web` `Automação`
-
-
----
-
-### BookMatch
-
-Projeto pessoal criado para recomendar **livros de acordo com o momento, humor e preferências do usuário**.
-
-Uma experiência que combina desenvolvimento, lógica de recomendação e uma das minhas maiores paixões: **livros**.
-
-`JavaScript` `Web` `Recomendação`
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Client Prospector</strong>
+      <br><br>
+      Ferramenta criada para <strong>pesquisar potenciais clientes no Google</strong> e organizar os resultados em uma planilha, incluindo informações úteis para prospecção e <strong>links diretos para WhatsApp</strong> quando disponíveis.
+      <br><br>
+      <code>Python</code> <code>Web Scraping</code> <code>Google</code> <code>Automação</code>
+      <br><br>
+    </td>
+    <td width="33%" align="center">
+      <strong>Website Translator</strong>
+      <br><br>
+      Projeto pessoal desenvolvido para <strong>traduzir conteúdos de websites</strong>, explorando conceitos de desenvolvimento web e processamento de conteúdo.
+      <br><br>
+      <code>JavaScript</code> <code>Web</code> <code>Automação</code>
+      <br><br>
+    </td>
+    <td width="33%" align="center">
+      <strong>BookMatch</strong>
+      <br><br>
+      Projeto pessoal criado para <strong>recomendar livros</strong> de acordo com o momento, humor e preferências do usuário. Combinando <strong>desenvolvimento, lógica de recomendação</strong> e uma das minhas maiores paixões: livros.
+      <br><br>
+      <code>JavaScript</code> <code>Web</code> <code>Recomendação</code>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Tecnologias
 
-### Linguagens
+### Linguagens & IA
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="OpenAI API"/>
+  <img src="https://cdn.simpleicons.org/google" width="40" height="40" alt="Gemini API"/>
+  <img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude API"/>
 </p>
 
-### Dados & Banco de Dados
+### Automação, Web & Dados
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/n8n" width="40" height="40" alt="n8n"/>
+  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Requests"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40" height="40" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/googlesheets" width="40" height="40" alt="Google Sheets"/>
+</p>
+
+### Banco de Dados & Cloud
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/googlesheets" width="40" height="40" alt="Google Sheets"/>
+  <img src="https://cdn.simpleicons.org/sqlite" width="40" height="40" alt="SQLite"/>
+  <img src="https://cdn.simpleicons.org/supabase" width="40" height="40" alt="Supabase"/>
+  <img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase"/>
+  <img src="https://cdn.simpleicons.org/vercel" width="40" height="40" alt="Vercel"/>
+  <img src="https://cdn.simpleicons.org/netlify" width="40" height="40" alt="Netlify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
 </p>
 
 ### Desenvolvimento & Infraestrutura
@@ -175,17 +189,7 @@ Uma experiência que combina desenvolvimento, lógica de recomendação e uma da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"/>
-</p>
-
-### Web, Cloud & Aplicações
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.simpleicons.org/supabase" width="40" height="40" alt="Supabase"/>
-  <img src="https://cdn.simpleicons.org/vercel" width="40" height="40" alt="Vercel"/>
-  <img src="https://cdn.simpleicons.org/netlify" width="40" height="40" alt="Netlify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
 </p>
 
 ---
