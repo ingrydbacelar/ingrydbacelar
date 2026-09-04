@@ -36,9 +36,7 @@ Atuo como **LDR na Dealwise** e sou fundadora da **ConectaLeads**, onde aplico *
   <img width="1920" height="480" alt="ConectaLeads" src="https://github.com/user-attachments/assets/2fb6044b-1826-49a9-86b7-b26488feff82" />
 </p>
 
-Iniciativa criada por mim para **prospecção B2B**, unindo **dados, tecnologia e automação** para tornar a geração de oportunidades mais estratégica e eficiente.
-
-O projeto utiliza recursos da **Apollo.io** para **encontrar e qualificar leads**, organizar informações comerciais e otimizar diferentes etapas do processo de prospecção.
+Iniciativa criada por mim para **prospecção B2B**, unindo **dados, tecnologia e automação** para tornar a geração de oportunidades mais estratégica e eficiente. O projeto utiliza recursos da **Apollo.io** para **encontrar e qualificar leads**, organizar informações comerciais e otimizar diferentes etapas do processo de prospecção.
 
 A ConectaLeads também representa minha experiência prática na criação de **soluções tecnológicas aplicadas a negócios**, transformando dados e processos em ferramentas que geram valor.
 
@@ -91,9 +89,9 @@ Meu objetivo não é apenas escrever código, mas **identificar um problema, ent
 
 ---
 
-# 💼 Soluções profissionais
+# Soluções profissionais
 
-### 04 — Website Phone Extractor
+### Website Phone Extractor
 
 Ferramenta criada para **extrair números de telefone disponíveis nos sites de empresas**, automatizando uma tarefa de coleta que normalmente seria realizada manualmente.
 
@@ -101,11 +99,9 @@ Ferramenta criada para **extrair números de telefone disponíveis nos sites de 
 
 `Python` `Web Scraping` `Automação` `IA`
 
-🔒 **Código-fonte privado**
-
 ---
 
-### 05 — CNPJ Finder
+### CNPJ Finder
 
 Programa desenvolvido para **localizar o CNPJ de empresas** a partir de informações disponíveis sobre a organização.
 
@@ -113,11 +109,9 @@ A solução automatiza uma etapa de pesquisa e enriquecimento de dados empresari
 
 `Python` `Automação` `Data Processing`
 
-🔒 **Código-fonte privado**
-
 ---
 
-### 06 — Sales Data Analyzer
+### Sales Data Analyzer
 
 Automação desenvolvida para **coletar os dados das planilhas da semana e gerar análises de aproveitamento**, reduzindo o trabalho manual de consolidação das informações.
 
@@ -125,13 +119,11 @@ O projeto transforma dados operacionais em informações mais úteis para acompa
 
 `Python` `Google Sheets` `Automação` `Dados`
 
-🔒 **Código-fonte privado**
-
 ---
 
-# 🧪 Projetos pessoais
+# Projetos pessoais
 
-### 07 — Client Prospector
+### Client Prospector
 
 Ferramenta criada para **pesquisar potenciais clientes no Google** e organizar os resultados em uma planilha, incluindo informações úteis para prospecção e **links diretos para WhatsApp** quando disponíveis.
 
@@ -139,29 +131,24 @@ Um projeto desenvolvido para explorar automação, coleta de dados e geração d
 
 `Python` `Web Scraping` `Google` `Automação`
 
-🔒 **Código-fonte privado**
-
 ---
 
-### 08 — Website Translator
+### 0Website Translator
 
 Projeto pessoal desenvolvido para **traduzir conteúdos de websites**, explorando conceitos de desenvolvimento web e processamento de conteúdo.
 
 `JavaScript` `Web` `Automação`
 
-🔒 **Código-fonte privado**
 
 ---
 
-### 09 — BookMatch
+### BookMatch
 
 Projeto pessoal criado para recomendar **livros de acordo com o momento, humor e preferências do usuário**.
 
 Uma experiência que combina desenvolvimento, lógica de recomendação e uma das minhas maiores paixões: **livros**.
 
 `JavaScript` `Web` `Recomendação`
-
-🔒 **Código-fonte privado**
 
 ---
 
