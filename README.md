@@ -58,41 +58,36 @@ Meu objetivo não é apenas escrever código, mas **identificar um problema, ent
 
 ---
 
-## ⭐ Projetos em destaque
+## Projetos de destaque
 
-### 01 — Local Email Validator
-
-**Verificador de e-mails executado localmente**, desenvolvido para validar endereços de e-mail sem depender exclusivamente de créditos de serviços externos.
-
-O projeto nasceu de uma necessidade prática e busca tornar o processo de validação mais acessível, automatizado e independente.
-
-`Python` `Automação` `Data Processing`
-
-🔒 **Código-fonte privado**
-
----
-
-### 02 — Company Profile & Pain Analyzer
-
-Ferramenta desenvolvida para **analisar o perfil e as dores de empresas** a partir de informações disponíveis e transformar os dados coletados em um **script direcionado para abordagem comercial**.
-
-A solução conecta análise de dados, automação e inteligência comercial para transformar informações sobre uma empresa em uma abordagem mais contextualizada.
-
-`Python` `Automação` `Dados` `Sales Intelligence`
-
-🔒 **Código-fonte privado**
-
----
-
-### 03 — ICP Website Analyzer
-
-Sistema desenvolvido para analisar o **site de uma empresa** e identificar se ela apresenta características compatíveis com um **ICP (Ideal Customer Profile)** previamente definido.
-
-A ideia é automatizar uma etapa de qualificação que normalmente exigiria análise manual.
-
-`Python` `Web Scraping` `Automação` `IA` `ICP`
-
-🔒 **Código-fonte privado**
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Local Email Validator</strong>
+      <br><br>
+      Verificador de e-mails executado localmente, desenvolvido para reduzir a dependência de serviços externos e otimizar o processo de validação.
+      <br><br>
+      <code>Python</code> <code>Automação</code>
+      <br><br>
+    </td>
+    <td width="33%" align="center">
+      <strong>Company Profile & Pain Analyzer</strong>
+      <br><br>
+      Analisa o perfil e as principais dores de uma empresa, transformando essas informações em um roteiro estratégico para abordagem comercial.
+      <br><br>
+      <code>Python</code> <code>IA</code> <code>Automação</code>
+      <br><br>
+    </td>
+    <td width="33%" align="center">
+      <strong>ICP Website Analyzer</strong>
+      <br><br>
+      Analisa automaticamente o site de uma empresa para identificar características e determinar se ela se encaixa em um perfil de cliente ideal (ICP).
+      <br><br>
+      <code>Python</code> <code>Web Scraping</code> <code>IA</code>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
