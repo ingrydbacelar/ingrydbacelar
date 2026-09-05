@@ -63,7 +63,7 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
       <br><br>
       Analisa o perfil e as principais dores de uma empresa, transformando essas informações em um roteiro estratégico para abordagem comercial.
       <br><br>
-      <code>Python</code> <code>IA</code> <code>Automação</code>
+      <code>Google Sheets</code> <code>IA</code> <code>Automação</code>
       <br><br>
     </td>
     <td width="33%" align="center">
@@ -71,7 +71,7 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
       <br><br>
       Analisa automaticamente o site de uma empresa para identificar características e determinar se ela se encaixa em um perfil de cliente ideal (ICP).
       <br><br>
-      <code>Python</code> <code>Web Scraping</code> <code>IA</code>
+      <code>Python</code> <code>Web Scraping</code>
       <br><br>
     </td>
   </tr>
@@ -88,7 +88,7 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
       <br><br>
       Ferramenta criada para <strong>extrair números de telefone disponíveis nos sites de empresas</strong>, automatizando uma tarefa de coleta que normalmente seria realizada manualmente.
       <br><br>
-      <code>Python</code> <code>Web Scraping</code> <code>Automação</code> <code>IA</code>
+      <code>Python</code> <code>Crawler</code>
       <br><br>
     </td>
     <td width="33%" align="center">
@@ -96,7 +96,7 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
       <br><br>
       Programa desenvolvido para <strong>localizar o CNPJ de empresas</strong> a partir de informações disponíveis sobre a organização.
       <br><br>
-      <code>Python</code> <code>Automação</code> <code>Data Processing</code>
+      <code>Python</code> <code>API</code> 
       <br><br>
     </td>
     <td width="33%" align="center">
@@ -121,7 +121,7 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
       <br><br>
       Ferramenta criada para <strong>pesquisar potenciais clientes no Google</strong> e organizar os resultados em uma planilha, incluindo informações úteis para prospecção e <strong>links diretos para WhatsApp</strong> quando disponíveis.
       <br><br>
-      <code>Python</code> <code>Web Scraping</code> <code>Google</code> <code>Automação</code>
+      <code>Python</code> <code>Web Scraping</code> <code>Google</code> 
       <br><br>
     </td>
     <td width="33%" align="center">
@@ -129,7 +129,7 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
       <br><br>
       Projeto pessoal desenvolvido para <strong>traduzir conteúdos de websites</strong>, explorando conceitos de desenvolvimento web e processamento de conteúdo.
       <br><br>
-      <code>JavaScript</code> <code>Web</code> <code>Automação</code>
+      <code>JavaScript</code> <code>Web</code>
       <br><br>
     </td>
     <td width="33%" align="center">
@@ -137,7 +137,7 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
       <br><br>
       Projeto pessoal criado para <strong>recomendar livros</strong> de acordo com o momento, humor e preferências do usuário. Combinando <strong>desenvolvimento, lógica de recomendação</strong> e uma das minhas maiores paixões: livros.
       <br><br>
-      <code>JavaScript</code> <code>Web</code> <code>Recomendação</code>
+      <code>JavaScript</code> <code>IA</code>
       <br><br>
     </td>
   </tr>
