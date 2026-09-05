@@ -76,11 +76,6 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
     </td>
   </tr>
 </table>
-
----
-
-## Soluções profissionais
-
 <table>
   <tr>
     <td width="33%" align="center">
@@ -109,11 +104,6 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
     </td>
   </tr>
 </table>
-
----
-
-## Projetos pessoais
-
 <table>
   <tr>
     <td width="33%" align="center">
@@ -125,11 +115,11 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
       <br><br>
     </td>
     <td width="33%" align="center">
-      <strong>Website Translator</strong>
+      <strong>Job Finder</strong>
       <br><br>
-      Projeto pessoal desenvolvido para <strong>traduzir conteúdos de websites</strong>, explorando conceitos de desenvolvimento web e processamento de conteúdo.
+      Sistema que <strong>analisa currículos e encontra vagas<strong> compatíveis na web, reunindo os melhores resultados e links para candidatura.
       <br><br>
-      <code>JavaScript</code> <code>Web</code>
+      <code>FastAPI</code> <code>Web Scraping</code>
       <br><br>
     </td>
     <td width="33%" align="center">
