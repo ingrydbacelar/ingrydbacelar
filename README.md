@@ -117,7 +117,7 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
     <td width="33%" align="center">
       <strong>Job Finder</strong>
       <br><br>
-      Sistema que <strong>analisa currículos e encontra vagas<strong> compatíveis na web, reunindo os melhores resultados e links para candidatura.
+      Sistema que <strong>analisa currículos e encontra vagas compatíveis</strong> na web, reunindo os melhores resultados e links para candidatura.
       <br><br>
       <code>FastAPI</code> <code>Web Scraping</code>
       <br><br>
