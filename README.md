@@ -123,11 +123,11 @@ A ConectaLeads é um **serviço de prospecção de clientes para empresas**, cri
       <br><br>
     </td>
     <td width="33%" align="center">
-      <strong>BookMatch</strong>
+      <strong>BookMatcher</strong>
       <br><br>
       Projeto pessoal criado para <strong>recomendar livros</strong> de acordo com o momento, humor e preferências do usuário. Combinando <strong>desenvolvimento, lógica de recomendação</strong> e uma das minhas maiores paixões: livros.
       <br><br>
-      <code>JavaScript</code> <code>IA</code>
+      <code>JavaScript</code> <code>CSS</code>
       <br><br>
     </td>
   </tr>
