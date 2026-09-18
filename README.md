@@ -26,7 +26,7 @@
 
 Sou estudante de **Ciência da Computação**, interessada em transformar dados em soluções inteligentes e explorar como a tecnologia pode contribuir para ambientes mais seguros. Direciono meus estudos e projetos principalmente para **Dados & Inteligência Artificial**, com interesse crescente em **Cibersegurança** e, de forma complementar, em **Computação Forense**.
 
-Atuo como **LDR na Dealwise** e sou fundadora da **ConectaLeads**, onde aplico tecnologia, dados e automação à prospecção B2B.
+Atuo como **List Builder** na Dealwise e sou fundadora da **ConectaLeads**, onde aplico tecnologia, dados e automação à prospecção B2B.
 
 ---
 
