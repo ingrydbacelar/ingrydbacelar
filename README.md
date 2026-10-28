@@ -128,7 +128,6 @@ Atuo como **List Builder** na Dealwise, onde aplico tecnologia, dados e automaç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
   <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="ChatGPT"/>
-  <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Gemini"/>
   <img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude"/>
 </p>
 
@@ -137,8 +136,6 @@ Atuo como **List Builder** na Dealwise, onde aplico tecnologia, dados e automaç
 <p align="left">
   <img src="https://cdn.simpleicons.org/n8n" width="40" height="40" alt="n8n"/>
   <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Requests"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40" height="40" alt="Excel"/>
   <img src="https://cdn.simpleicons.org/googlesheets" width="40" height="40" alt="Google Sheets"/>
 </p>
 
@@ -146,9 +143,6 @@ Atuo como **List Builder** na Dealwise, onde aplico tecnologia, dados e automaç
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/sqlite" width="40" height="40" alt="SQLite"/>
-  <img src="https://cdn.simpleicons.org/supabase" width="40" height="40" alt="Supabase"/>
   <img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase"/>
   <img src="https://cdn.simpleicons.org/vercel" width="40" height="40" alt="Vercel"/>
   <img src="https://cdn.simpleicons.org/netlify" width="40" height="40" alt="Netlify"/>
