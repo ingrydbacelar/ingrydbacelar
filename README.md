@@ -26,23 +26,7 @@
 
 Sou estudante de **Ciência da Computação**, interessada em transformar dados em soluções inteligentes e explorar como a tecnologia pode contribuir para ambientes mais seguros. Direciono meus estudos e projetos principalmente para **Dados & Inteligência Artificial**, com interesse crescente em **Cibersegurança** e, de forma complementar, em **Computação Forense**.
 
-Atuo como **List Builder** na Dealwise e sou fundadora da **ConectaLeads**, onde aplico tecnologia, dados e automação à prospecção B2B.
-
----
-
-## ConectaLeads
-
-<p align="center">
-  <img width="1920" height="480" alt="ConectaLeads" src="https://github.com/user-attachments/assets/2fb6044b-1826-49a9-86b7-b26488feff82" />
-</p>
-
-A ConectaLeads é um **serviço de prospecção de clientes para empresas**, criado por mim. Utilizo dados, automação e ferramentas de inteligência comercial para encontrar empresas e contatos que tenham potencial interesse nos produtos ou serviços dos meus clientes.
-
-<p align="center">
-  <a href="https://conectaleadsb2b.com.br/">
-    <img src="https://img.shields.io/badge/%20Conheça%20o%20Site-2d3c0e?style=for-the-badge" />
-  </a>
-</p>
+Atuo como **List Builder** na Dealwise, onde aplico tecnologia, dados e automação à prospecção B2B.
 
 ---
 
